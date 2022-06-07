@@ -2,7 +2,7 @@ from functools import partial
 from typing import Dict
 from collections import defaultdict
 from typing import Callable
-from schemas import EventRequest
+from api.schemas import EventRequest
 
 
 """
